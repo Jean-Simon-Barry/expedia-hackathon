@@ -1,0 +1,190 @@
+data
+
+
+1. Montréal's Digital Spring
+					
+					
+					    March 21 to June 21, 2015
+					
+					
+						The city’s reputation as a creative hub is buoyed by digital innovation.
+					
+					
+						Type:
+						Festivals
+						
+						Neighbourhood:
+						Downtown
+
+
+data
+
+
+2. Horst: Photographer of Style
+					
+					
+					    May 14 to August 23, 2015
+					
+					
+						The first North American retrospective of the works of legendary German-American artist Horst P. Horst (1906-1999).
+					
+					
+						Type:
+						Arts
+						
+						Neighbourhood:
+						Downtown
+
+
+data
+
+
+3. Festival TransAmériques
+					
+					
+					    May 21 to June 4, 2015
+					
+					
+						Featuring more than 30 companies from here and abroad, the Festival offers bold and innovative programming in dance and theatre.
+					
+					
+						Type:
+						Festivals
+						
+						Neighbourhood:
+						Downtown
+
+
+data
+
+
+4. Go Bike Montréal Festival
+					
+					
+					    May 24 to 31, 2015
+					
+					
+						The bicycle is celebrated for eight days, in one of the best cycling city in North America. 
+					
+					
+						Type:
+						Sport
+						
+						Neighbourhood:
+						Plateau Mont-Royal and Mile End
+
+
+data
+
+
+5. MUTEK
+					
+					
+					    May 27 to May 31, 2015
+					
+					
+						An annual gathering dedicated to emerging forms of electronic music and sound design in the era of new technologies.
+					
+					
+						Type:
+						Festivals
+						
+						Neighbourhood:
+						Downtown
+
+
+data
+
+
+6. The Aztecs, People of the Sun
+					
+					
+					    Summer 2015
+					
+					
+						The exhibition presents the history of the magnificent city of Tenochtitlan, which the Aztecs founded in 1325.
+					
+					
+						Type:
+						History
+						
+						Neighbourhood:
+						Old Montréal and Old Port
+
+
+data
+
+
+7. Festival Mondial de la bière (Montreal Beer Fest)
+					
+					
+					    June 10 to 14, 2015
+					
+					
+						A beer-tasting adventure that showcases the many different flavours of beer, cider and various fine dishes.
+					
+					
+						Type:
+						Festivals
+						
+						Neighbourhood:
+						Downtown
+
+
+data
+
+
+8. Piknic Électronik
+					
+					
+					    May 17 to September 20, 2015
+					
+					
+						Every Sunday, discover the best of the electronic music scene in an environment created to stimulate the senses.
+					
+					
+						Type:
+						Festivals
+						
+						Neighbourhood:
+						Parc Jean-Drapeau
+
+
+data
+
+
+9. Rodin - Metamorphoses
+					
+					
+					    May 30 to October 18, 2015
+					
+					
+						This exhibition features masterpieces like the 200 or so figures fleeing The Gates of Hell, a work Rodin was to draw from for the rest of his career, and The Walking Man.
+					
+					
+						Type:
+						Arts
+						
+						Neighbourhood:
+						Downtown
+
+
+data
+
+
+10. FIFA Women's World Cup 
+					
+					
+					    June 9, 13, 15, 17, 21, 26 and 30, 2015
+					
+					
+						The FIFA Women's World Cup Canada 2015 will run from 6 June to 4 July 2015, with soccer matches to be played in Vancouver, Edmonton, Winnipeg, Ottawa, Montreal and Moncton.
+					
+					
+						Type:
+						Sport
+						
+						Neighbourhood:
+						Hochelaga-Maisonneuve
+
+
